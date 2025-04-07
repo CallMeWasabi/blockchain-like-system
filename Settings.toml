@@ -1,0 +1,9 @@
+[server]
+port = 80
+
+[database]
+host = "localhost"
+port = "27017"
+username = "root"
+password = "root"
+dbname = "rust_chain"
